@@ -19,6 +19,7 @@ namespace SearchForm
         Timer tmr1;
         System.DateTime date1;
 
+
         // Конструктор
         public Form1()
         {
